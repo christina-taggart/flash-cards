@@ -1,5 +1,7 @@
 # Web Flash Cards 1 Multiple Decks 
- 
+
+<a target="_blank" href="http://minus.com/i/92bbrHfxHzDA"><img src="http://i.minus.com/j92bbrHfxHzDA.png" border="0"/></a>
+
 ##Learning Competencies 
 
 - Manage application complexity via proper modeling.
